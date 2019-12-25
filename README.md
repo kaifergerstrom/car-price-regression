@@ -1,6 +1,8 @@
 # Car Price Regression (Multivariate Linear Regression)
 > Multivariate linear regression on car prices.
 
+Data set provided by: https://www.kaggle.com/hellbuoy/car-price-prediction
+
 How does a car's:
 * Fuel type i.e gas or diesel
 * Brand
