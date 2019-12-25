@@ -1,8 +1,8 @@
 # Car Price Regression (Multivariate Linear Regression)
-Multivariate linear regression on car prices.
+> Multivariate linear regression on car prices.
 
 How does a car's:
-*Fuel type i.e gas or diesel
+* Fuel type i.e gas or diesel
 *Brand
 *Aspiration used in a car	
 *Number of doors in a car	
