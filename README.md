@@ -1,4 +1,4 @@
-# car-price-regression
+# Car Price Regression (Multivariate Linear Regression)
 Multivariate linear regression on car prices.
 
 How does a car's:
