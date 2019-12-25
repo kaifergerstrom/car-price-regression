@@ -24,7 +24,8 @@ How does a car's:
 * Horsepower	
 * Car peak rpm
 * Mileage in city
-* Mileage on highway	
+* Mileage on highway
+
 All effect the price of a car?
 
 My regression model first maps all the non-numeric columns—brand, fuel type, body, etc—to numeric integer values.
