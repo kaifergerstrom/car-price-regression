@@ -30,5 +30,5 @@ How does a car's:
 
 All effect the price of a car?
 
-My regression model first maps all the non-numeric columns—brand, fuel type, body, etc—to numeric integer values.
+My regression model first maps all the non-numeric (string) columns—brand, fuel type, body, etc—to numeric integer values.
 After training the model, it was able to achieve a 92% accuracy on the dataset.
